@@ -61,7 +61,7 @@ def no_ky(n0):
             return 1
 
 s= no_ky(33)
-print(s)
+#print(s)
 
 
 
